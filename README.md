@@ -9,7 +9,6 @@ Please cite this compendium as: Eriksson, Love; Monzón, Michael A., 2025, "Ston
 
 
 # *Content*
-You can view the meta data created for this assignment [*here.*](https://sigurd-rw.github.io/dataspice/)
+You can view the meta data created for this assignment [*here.*](https://sigurd-rw.github.io/dataspice-qmd/)
 
 To download the data itself, head [*here.*](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OCYM7I)
-# dataspice-qmd
